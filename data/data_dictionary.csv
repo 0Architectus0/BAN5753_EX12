@@ -1,0 +1,29 @@
+﻿Column_Name,Type,Description
+avg_income,Interval,Commercial HH income estimate   
+campus_visit,Interval,Campus visit code    
+contact_code1,Nominal,First contact code    
+contact_date,Nominal,First contact date    
+contact_month,Nominal,Month of first contact   
+contact_year,Nominal,Year of first contact   
+distance,Interval,Distance from university    
+target_enroll,Binary,"1=Enrolled, 0=Not enrolled    "
+ethnicity,Nominal,Ethnicity      
+hscrat,Interval,5-year high school enrollment rate  
+init_span,Interval,Time from first contact to enrollment date
+instate,Binary,"Y=In state, N=Out of state  "
+int1rat,Interval,5-year primary interest code rate  
+int2rat,Interval,5-year secondary interest code rate  
+interest,Ordinal,Number of indicated extracurricular interests  
+irschool,Nominal,High school code    
+level_year,Unary,Student academic level    
+mailq,Interval,Mail qualifying score (1=very interested)  
+premiere,Binary,"1=Attended campus recruitment event, 0=Did not "
+referral_cntcts,Interval,Referral contact count    
+satscore,Interval,SAT (original) score    
+self_init_cntcts,Interval,Self-initiated contact count    
+sex,Binary,Sex      
+solicited_cntcts,Interval,Solicited contact count    
+telecq,Interval,Tele-counseling qualifying score (1=very interested)   
+territory,Nominal,Recruitment area     
+total_contacts,Interval,Total contact count    
+travel_init_cntcts,Interval,Travel initiated contact count   
